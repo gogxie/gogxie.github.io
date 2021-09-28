@@ -1,8 +1,8 @@
 encoding: utf-8
 
 # SEO相关信息
-title: Guodong Xie's Blog
-description: Guodong Xie's Personal Blog
+title: Guodong Xie's Notebook
+description: Guodong Xie's Notebook
 author: Guodong Xie
 footerText: 'Copyright © 2021 littletiger1926@gmail.com; '
 
@@ -16,7 +16,7 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 
 # 域名配置
 # baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
-domainUrl: 'http://blog.tmaize.net'
+domainUrl: 
 baseurl: ''
 
 # 菜单
