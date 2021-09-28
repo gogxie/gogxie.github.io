@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: About me
+title: about me
 ---
 
-> Hello there, welcome to Guoding Xie's Blog
+> Hello there, welcome to Guodong Xie's blog!
